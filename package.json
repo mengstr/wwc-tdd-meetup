@@ -1,0 +1,19 @@
+{
+  "name": "stringcalc",
+  "version": "1.0.0",
+  "description": "My code from the TDD session held by the Kuala Lumpur chapter of Women Who Code",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SmallRoomLabs/wwc-tdd-meetup.git"
+  },
+  "scripts": {
+    "test": "../node_modules/.bin/mocha --reporter=spec"
+  },
+  "devDependencies": {
+    "chai": "^2.1.1",
+    "mocha": "^2.2.1"
+  },
+  "author": "Mats Engstrom <mats.engstrom@gmail.com>",
+  "license": "MIT"
+}
