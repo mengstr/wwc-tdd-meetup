@@ -8,3 +8,6 @@ Since I've put the test command into the scripts section of the package.json the
 
 This repository can be downloaded by using the "Download ZIP" button you'll find on the right hand side of this page.
 
+Screenshot of the tests being run
+
+![Screenshot](https://raw.githubusercontent.com/SmallRoomLabs/wwc-tdd-meetup/master/results.jpg "Screenshot of the tests being run")
