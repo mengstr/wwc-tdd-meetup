@@ -8,7 +8,7 @@
     "url": "git@github.com:SmallRoomLabs/wwc-tdd-meetup.git"
   },
   "scripts": {
-    "test": "../node_modules/.bin/mocha --reporter=spec"
+    "test": "./node_modules/.bin/mocha --reporter=spec"
   },
   "devDependencies": {
     "chai": "^2.1.1",
